@@ -1,0 +1,1 @@
+Vous remarquerez que j'ai appelé ce dossier 'Repo', qui est le petit nom de repository.. car nous allons utiliser ce dossier comme repository, c'est-à-dire comme répertoire de travail géré par Git ! Voici un petit résumé des étapes à suivre
